@@ -1,4 +1,4 @@
-# README for Sentiment Analysis Notebook
+# Sentiment Analysis Using NLP
 
 ## Overview
 
